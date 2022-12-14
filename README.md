@@ -6,7 +6,7 @@
 **About me**
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
-- 👨‍💻 I'm a passionate and self-learning Full Stack developer
+- 🧑 I'm a passionate and self-learning Full Stack developer
 
 - 🌱 I’m currently learning **React**
 
