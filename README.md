@@ -1,11 +1,12 @@
 <img align="right" alt="Coding" height="200" width="1200" src="github-header-image.png">
 <br />
 
-I'm a passionate and self-learning Full Stack developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaganmercan&label=Profile%20views&color=0e75b6&style=flat" alt="kaganmercan" /> </p>
 
 **About me**
 <img align="right" alt="Coding" width="400" src="giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaganmercan&label=Profile%20views&color=0e75b6&style=flat" alt="kaganmercan" /> </p>
+
+- 👨‍💻 I'm a passionate and self-learning Full Stack developer
 
 - 🌱 I’m currently learning **React**
 
