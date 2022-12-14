@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" height="200" width="1200" src="github-header-image.png">
 <br />
 
-I'm a self-taught passionate Full Stack developer from Turkey
+I'm a passionate and self-learning Full Stack developer
 
 **About me**
 <img align="right" alt="Coding" width="400" src="giphy.gif">
