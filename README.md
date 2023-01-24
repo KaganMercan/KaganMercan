@@ -10,7 +10,7 @@
 
 - 🎓 I graduated from **Dokuz Eylül University**, **Computer Engineering** deparment
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 Reach me at **kaganmercan@yahoo.com**
 
