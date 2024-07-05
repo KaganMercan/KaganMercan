@@ -10,7 +10,7 @@
 
 - 🎓 I graduated from **Dokuz Eylül University**, **Computer Engineering** deparment
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 Have a proficiency in **.NET** and **JAVA**
 
 - 📫 Reach me at **kaganmercan@yahoo.com**
 
